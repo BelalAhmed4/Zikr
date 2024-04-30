@@ -85,7 +85,7 @@ function check() {
   if (page2.classList.contains("selected")) {
     azkarSection.innerHTML = sebhaBox;
     headerTitle.textContent = "مسبحة";
-    azkarSection.style.justifyContent = "center";
+    azkarSection.style.justifyContent = "flex-start";
   } else {
     azkarSection.innerHTML = quranAndSunnah;
     headerTitle.textContent = " أذكار  من الكتاب والسُّنّة ";
