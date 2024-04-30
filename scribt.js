@@ -133,8 +133,6 @@ function incrementCounter(event) {
     }
   }
 }
-
-// sebha.addEventListener("click", tasbehCounter);
 // Add Class "selected" To Page Btn When Click
 holders.forEach((holder) => {
   holder.addEventListener("click", function () {
