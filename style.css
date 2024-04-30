@@ -131,7 +131,7 @@ header {
   text-align: justify;
   cursor: pointer;
   position: relative;
-  padding-block: 0.5rem;
+  padding-block: 2.3rem;
   padding-inline: 0.9rem;
   border-radius: 11px;
   background-color: var(--mainColor);
