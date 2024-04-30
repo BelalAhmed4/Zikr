@@ -88,7 +88,7 @@ body {
 /* Header */
 header {
   font-family: var(--mainFontfamily);
-  height: 13vh;
+  height: 10vh;
   position: fixed;
   width: 100vw;
   padding-block: 2.1rem;
@@ -104,12 +104,13 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 1.1rem;
-  padding-block: 1.1rem;
+  gap: 3.1rem;
+  padding-top: 1.1rem;
+  padding-bottom: 6.5rem;
   position: absolute;
   overflow-y: scroll;
   top: 13vh;
-  height: 77vh;
+  height: 80vh;
   width: 100vw;
   //Page 1 (Azkar)
   .zekr {

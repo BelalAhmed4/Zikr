@@ -88,7 +88,7 @@ function check() {
     azkarSection.style.justifyContent = "center";
   } else {
     azkarSection.innerHTML = quranAndSunnah;
-    headerTitle.textContent = " أذكار  من الكتاب والسُّنّة الصَّحيحة";
+    headerTitle.textContent = " أذكار  من الكتاب والسُّنّة ";
   }
 }
 /*  Hide Prepare Section */
